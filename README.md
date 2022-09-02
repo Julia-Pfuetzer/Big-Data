@@ -1,11 +1,6 @@
-# Use Case: Popular NASA Shuttle Gamess
+# Use Case: Football Matches
 
-```json
-{ 
-	games: 'sts-10', 
-	timestamp: 1604325221 
-}
-```
+
 
 ## Prerequisites
 
